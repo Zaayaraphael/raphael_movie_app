@@ -1,12 +1,41 @@
-# React + Vite
+# Movie PP 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Movie App** built with React and Vite, allowing users to explore, search, and discover movies easily. The app is fully deployed and accessible online.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+Check out the live app here: [Movie PP on Render](https://raphael-movie-app2.onrender.com)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- Browse popular and trending movies  
+- Search for movies by title  
+- View detailed movie information (description, release date, rating)  
+- Smooth and responsive UI  
+- Dark/Light mode toggle (if implemented)  
+- Easy navigation with React Router  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite  
+- **Styling:** Tailwind CSS  
+- **State Management:** Zustand (if used)  
+- **Routing:** React Router DOM  
+- **HTTP Requests:** Axios  
+- **Deployment:** Render  
+
+---
+
+## 💻 Installation
+
+If you want to run this project locally:
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/Zaayaraphael/raphael_movie_app.git

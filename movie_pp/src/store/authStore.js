@@ -10,7 +10,7 @@ import { LogOut } from 'lucide-react';
 
 axios.defaults.withCredentials = true; // to include cookies in requests
 
-const API_URL = "http://localhost:5000/api"
+const API_URL = "https://raphael-movie-app.onrender.com/api"
 
 export const useAuthStore = create((set) => ({
     // initial states

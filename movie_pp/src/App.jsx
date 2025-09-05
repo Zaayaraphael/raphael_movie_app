@@ -9,7 +9,9 @@ import SignUp from './pages/SignUp'
 import { Toaster } from 'react-hot-toast'
 import useAuthStore from './store/authStore'
 import { useEffect } from 'react'
-import AIRecommendations from './pages/AiRecommendations'
+
+import AIRecommendations from './pages/AIRecommendations'
+
 
 const App = () => {
 
